@@ -3,14 +3,6 @@ I'm a recent graduate from the University of Florida. I completed my bachelors i
 
 </br>
 
-## My Stats
- <div>
-  <a href="https://github.com/mlmulv">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmulv&langs_count=16&theme=dracula"/>
-</div>
-
-</br>
-
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/markus-mulvihill-6549961a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -18,6 +10,14 @@ I'm a recent graduate from the University of Florida. I completed my bachelors i
  </br>
 </br>
 <div>
+
+ <div>
+  <a href="https://github.com/mlmulv">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmulv&langs_count=16&theme=dracula"/>
+</div>
+
+</br>
+
 
 Watch the Snake Game from my Github contributions!
 ![Snake animation](https://raw.githubusercontent.com/mlmulv/mlmulv/output/github-contribution-grid-snake-dark.svg)
