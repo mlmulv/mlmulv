@@ -32,8 +32,9 @@ Here are some ideas to get you started:
   3. Computational Neuroscience
 - 👯 I’m looking to collaborate on:
   1. Machine Learning / Deep Learning with Human Brain Signals
-  2. Remote Sensing Projects
-  3. Sensor Fusion Projects
+  2. Anomaly Detection Projects
+  3. Remote Sensing Projects
+  4. Sensor Fusion Projects
 
 
 
