@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Snake animation](https://raw.githubusercontent.com/mlmulv/mlmulv/output/github-contribution-grid-snake-dark.svg)
 <!--
 **mlmulv/mlmulv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
