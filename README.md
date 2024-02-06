@@ -1,6 +1,9 @@
 ### Hi there, I'm Markus 👋
 I'm a recent graduate from the University of Florida. I completed my bachelors in the department of Electrical and Computer Engineering!
-
+<div>
+  <a href="https://github.com/mlmulv">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmulv&langs_count=16&theme=dracula"/>
+</div>
 </br>
 
 ## Contact 
@@ -10,11 +13,6 @@ I'm a recent graduate from the University of Florida. I completed my bachelors i
  </br>
 </br>
 <div>
-
- <div>
-  <a href="https://github.com/mlmulv">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmulv&langs_count=16&theme=dracula"/>
-</div>
 
 </br>
 
@@ -26,6 +24,7 @@ Watch the Snake Game from my Github contributions!
 
 Here are some ideas to get you started:
 -->
+## About Me
 - 🌱 I’m currently learning:
   1. Kalman Filters
   2. Particle Filters
