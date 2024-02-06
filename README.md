@@ -1,4 +1,6 @@
 ### Hi there, I'm Markus 👋
+I'm a recent graduate from the University of Florida. I completed my bachelors in the department of Electrical and Computer Engineering!
+
 </br>
 
 ## My Stats
@@ -23,13 +25,15 @@ Watch the Snake Game from my Github contributions!
 **mlmulv/mlmulv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning:
+  1. Kalman Filters
+  2. Particle Filters
+  3. Computational Neuroscience
+- 👯 I’m looking to collaborate on:
+  1. Machine Learning / Deep Learning with Human Brain Signals
+  2. Remote Sensing Projects
+  3. Sensor Fusion Projects
+
+
+
