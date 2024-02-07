@@ -25,12 +25,15 @@ Watch the Snake Game from my Github contributions!
 Here are some ideas to get you started:
 -->
 ## About Me
-- 🌱 I’m currently learning:
-  1. Kalman Filters
-  2. Particle Filters
-  3. Computational Neuroscience
-- 👯 I’m looking to collaborate on:
-  1. Machine Learning / Deep Learning with Human Brain Signals
+- 🌱 I’m currently interested in:
+  1. Linear and Nonlinear Filtering
+     * Kalman Filters
+     * Particle Filters
+  2. Computational Neuroscience
+  3. Probablistic Modeling
+  4. Sensor Fusion
+- 👯 I'm currently looking into:
+  1. Machine Learning / Deep Learning with Brain Signals
   2. Anomaly Detection Projects
   3. Remote Sensing Projects
   4. Sensor Fusion Projects
