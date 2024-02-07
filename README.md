@@ -29,12 +29,13 @@ Here are some ideas to get you started:
   1. Linear and Nonlinear Filtering
      * Kalman Filters
      * Particle Filters
-  2. Computational Neuroscience
-  3. Probablistic Modeling
-- 👯 I'm currently looking into:
-  1. Machine Learning / Deep Learning with Brain Signals
-  2. Anomaly Detection Projects
-  3. Remote Sensing Projects
+  2. Probablistic Modeling
+  3. Computational Neuroscience
+- ✍️ I'm currently looking into:
+  1. Brain Computer Interface (BCI) Projects
+  2. Remote Sensing Projects
+  
+ 
 
 
 
