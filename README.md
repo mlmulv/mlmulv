@@ -31,9 +31,27 @@ Here are some ideas to get you started:
      * Particle Filters
   2. Probablistic Modeling
   3. Computational Neuroscience
-- ✍️ I'm currently looking into:
-  1. Brain Computer Interface (BCI) Projects
-  2. Remote Sensing Projects
+  4. Remote Sensing
+
+- ✍️ What I can assist in:
+  1. Time-series Analysis
+     * Fast Fourier Transforms
+     * Autocorrelation
+     * Stationarity
+  2. Machine Learning
+      * Naive Bayes
+      * Logistic Regression
+      * SVM
+      * PCA
+      * K-means
+      * ANNs
+      * Deep Learning and more
+  3. Data Preprocessing
+     * Filtering
+     * Resize/reshape
+     * Augmentation
+     * Removing missing samples / duplicates
+     * Train-Test Split
   
  
 
