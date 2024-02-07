@@ -50,6 +50,7 @@ Here are some ideas to get you started:
      * Filtering
      * Resize/reshape
      * Augmentation
+     * Normalization
      * Removing missing samples / duplicates
      * Train-Test Split
   
