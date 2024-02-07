@@ -31,12 +31,10 @@ Here are some ideas to get you started:
      * Particle Filters
   2. Computational Neuroscience
   3. Probablistic Modeling
-  4. Sensor Fusion
 - 👯 I'm currently looking into:
   1. Machine Learning / Deep Learning with Brain Signals
   2. Anomaly Detection Projects
   3. Remote Sensing Projects
-  4. Sensor Fusion Projects
 
 
 
