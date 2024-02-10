@@ -30,8 +30,9 @@ Here are some ideas to get you started:
      * Kalman Filters
      * Particle Filters
   2. Probablistic Modeling
-  3. Computational Neuroscience
-  4. Remote Sensing
+  3. Brain Computer Interface
+  4. Computational Neuroscience
+  5. Remote Sensing
 
 - ✍️ What I can assist in:
   1. Time-series Analysis
