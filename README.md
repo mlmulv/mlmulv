@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F797EB&background=FFF9F900&center=true&vCenter=true&random=false&width=435&lines=oh...;hello+there!;my+name+is+markus+%3AP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F797EB&background=FFF9F900&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=70&lines=my+name+is+markus!;and+i+love+data+%F0%9F%93%88)](https://git.io/typing-svg)
 
-I'm a recent graduate from the University of Florida. I completed my bachelors in the department of Electrical and Computer Engineering!
+| Github Stats | Top Languages |
+| --- | --- |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mlmulv&theme=dark&background=000000)](https://git.io/streak-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlmulv&langs_count=16&theme=dracula) |
+
 <div>
   <a href="https://github.com/mlmulv">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmulv&langs_count=16&theme=dracula"/>
