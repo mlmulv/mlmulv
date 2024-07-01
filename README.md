@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F797EB&background=FFF9F900&center=true&vCenter=true&random=false&width=435&lines=oh...;hello+there!;my+name+is+markus+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F797EB&background=FFF9F900&center=true&vCenter=true&random=false&width=435&lines=oh...;hello+there!;my+name+is+markus+%3AP)](https://git.io/typing-svg)
 
 I'm a recent graduate from the University of Florida. I completed my bachelors in the department of Electrical and Computer Engineering!
 <div>
